@@ -1,4 +1,4 @@
-use IDE like visual studio code
+use IDE
 write in terminal:
   pip install pandas
   pip install selenium
